@@ -1,0 +1,79 @@
+[
+    {
+        "imageUrl": "https://source.unsplash.com/random/600×400?technology",
+        "imageHref": "#",
+        "title": "New Gadgets Released",
+        "titleHref": "#",
+        "description": "Check out the latest tech gadgets hitting the market, from smartphones to smartwatches.",
+        "authorAvatarUrl": "https://api.dicebear.com/7.x/notionists/svg?seed=John?size=64",
+        "authorName": "Shushant Singh",
+        "publishDate": "Sept 19, 2021",
+        "tag": "Technology"
+    },
+    {
+        "imageUrl": "https://source.unsplash.com/random/600×400?nutrition",
+        "imageHref": "#",
+        "title": "Healthy Eating Habits",
+        "titleHref": "#",
+        "description": "Learn about nutritious food choices and healthy eating habits to maintain a balanced lifestyle.",
+        "authorAvatarUrl": "https://api.dicebear.com/7.x/notionists/svg?seed=John?size=64",
+        "authorName": "Jessica",
+        "publishDate": "Oct 5, 2021",
+        "tag": "Nutrition"
+    },
+    {
+        "imageUrl": "https://source.unsplash.com/random/600×400?travel",
+        "imageHref": "#",
+        "title": "Exploring New Destinations",
+        "titleHref": "#",
+        "description": "Discover breathtaking travel destinations around the world and plan your next adventure.",
+        "authorAvatarUrl": "https://api.dicebear.com/7.x/notionists/svg?seed=John?size=64",
+        "authorName": "Michael",
+        "publishDate": "Nov 12, 2021",
+        "tag": "Travel"
+    },
+    {
+        "imageUrl": "https://source.unsplash.com/random/600×400?productivity",
+        "imageHref": "#",
+        "title": "Boost Your Productivity",
+        "titleHref": "#",
+        "description": "Effective strategies and tools to enhance your productivity and achieve your goals.",
+        "authorAvatarUrl": "https://api.dicebear.com/7.x/notionists/svg?seed=John?size=64",
+        "authorName": "Emily",
+        "publishDate": "Dec 3, 2021",
+        "tag": "Productivity"
+    },
+    {
+        "imageUrl": "https://source.unsplash.com/random/600×400?mindfulness",
+        "imageHref": "#",
+        "title": "Mindfulness Meditation",
+        "titleHref": "#",
+        "description": "Learn the practice of mindfulness meditation to reduce stress and improve overall well-being.",
+        "authorAvatarUrl": "https://api.dicebear.com/7.x/notionists/svg?seed=John?size=64",
+        "authorName": "David",
+        "publishDate": "Jan 7, 2022",
+        "tag": "Mindfulness"
+    },
+    {
+        "imageUrl": "https://source.unsplash.com/random/600×400?healthy",
+        "imageHref": "#",
+        "title": "Staying Healthy and Fit",
+        "titleHref": "#",
+        "description": "Tips and techniques for maintaining a healthy lifestyle and staying fit.",
+        "authorAvatarUrl": "https://api.dicebear.com/7.x/notionists/svg?seed=John?size=64",
+        "authorName": "Sarah",
+        "publishDate": "Feb 14, 2022",
+        "tag": "Health"
+    },
+    {
+        "imageUrl": "https://source.unsplash.com/random/600×400?sustainability",
+        "imageHref": "#",
+        "title": "Promoting Sustainability",
+        "titleHref": "#",
+        "description": "Explore ways to promote sustainability and protect the environment for future generations.",
+        "authorAvatarUrl": "https://api.dicebear.com/7.x/notionists/svg?seed=John?size=64",
+        "authorName": "Alex",
+        "publishDate": "Mar 22, 2022",
+        "tag": "Sustainability"
+    }
+]
