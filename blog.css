@@ -54,7 +54,7 @@ a{
     }
 }
 
-@media (min-width:1080px) {
+@media (min-width:1230px) {
     .main_container{
         grid-template-columns: repeat(3, 1fr);
     }
