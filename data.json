@@ -7,7 +7,7 @@
         "description": "Check out the latest tech gadgets hitting the market, from smartphones to smartwatches.",
         "authorAvatarUrl": "https://api.dicebear.com/7.x/notionists/svg?seed=John?size=64",
         "authorName": "Shushant Singh",
-        "publishDate": "Sept 19, 2021",
+        "publishDate": "Sept 19, 2024",
         "tag": "Technology"
     },
     {
@@ -18,7 +18,7 @@
         "description": "Learn about nutritious food choices and healthy eating habits to maintain a balanced lifestyle.",
         "authorAvatarUrl": "https://api.dicebear.com/7.x/notionists/svg?seed=John?size=64",
         "authorName": "Jessica",
-        "publishDate": "Oct 5, 2021",
+        "publishDate": "Oct 5, 2024",
         "tag": "Nutrition"
     },
     {
@@ -29,7 +29,7 @@
         "description": "Discover breathtaking travel destinations around the world and plan your next adventure.",
         "authorAvatarUrl": "https://api.dicebear.com/7.x/notionists/svg?seed=John?size=64",
         "authorName": "Michael",
-        "publishDate": "Nov 12, 2021",
+        "publishDate": "Nov 12, 2024",
         "tag": "Travel"
     },
     {
@@ -40,7 +40,7 @@
         "description": "Effective strategies and tools to enhance your productivity and achieve your goals.",
         "authorAvatarUrl": "https://api.dicebear.com/7.x/notionists/svg?seed=John?size=64",
         "authorName": "Emily",
-        "publishDate": "Dec 3, 2021",
+        "publishDate": "Dec 3, 2024",
         "tag": "Productivity"
     },
     {
@@ -51,7 +51,7 @@
         "description": "Learn the practice of mindfulness meditation to reduce stress and improve overall well-being.",
         "authorAvatarUrl": "https://api.dicebear.com/7.x/notionists/svg?seed=John?size=64",
         "authorName": "David",
-        "publishDate": "Jan 7, 2022",
+        "publishDate": "Jan 7, 2024",
         "tag": "Mindfulness"
     },
     {
@@ -62,7 +62,7 @@
         "description": "Tips and techniques for maintaining a healthy lifestyle and staying fit.",
         "authorAvatarUrl": "https://api.dicebear.com/7.x/notionists/svg?seed=John?size=64",
         "authorName": "Sarah",
-        "publishDate": "Feb 14, 2022",
+        "publishDate": "Feb 14, 2024",
         "tag": "Health"
     },
     {
@@ -73,7 +73,17 @@
         "description": "Explore ways to promote sustainability and protect the environment for future generations.",
         "authorAvatarUrl": "https://api.dicebear.com/7.x/notionists/svg?seed=John?size=64",
         "authorName": "Alex",
-        "publishDate": "Mar 22, 2022",
+        "publishDate": "Mar 22, 2028",
         "tag": "Sustainability"
     }
+    { "imageUrl": "https://cdn.pixabay.com/photo/2023/10/20/06/15/ai-generated-8328265_1280.jpg",
+        "imageHref": "#",
+        "title": "Be Postive",
+        "titleHref": "#",
+        "description": "Positivity can contribute to improved mental health, better relationships, increased productivity, and overall life satisfaction.",
+        "authorAvatarUrl": "https://api.dicebear.com/7.x/notionists/svg?seed=John?size=64",
+        "authorName": "Ankit",
+        "publishDate": "June 12, 2027",
+        "tag": "Positivity"
+    
 ]
