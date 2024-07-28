@@ -76,15 +76,6 @@
         "publishDate": "Mar 22, 2028",
         "tag": "Sustainability"
     }
-    { "imageUrl": "https://cdn.pixabay.com/photo/2023/10/20/06/15/ai-generated-8328265_1280.jpg",
-        "imageHref": "#",
-        "title": "Be Postive",
-        "titleHref": "#",
-        "description": "Positivity can contribute to improved mental health, better relationships, increased productivity, and overall life satisfaction.",
-        "authorAvatarUrl": "https://api.dicebear.com/7.x/notionists/svg?seed=John?size=64",
-        "authorName": "Ankit",
-        "publishDate": "June 12, 2027",
-        "tag": "Positivity"
-    }
+   
     
 ]
